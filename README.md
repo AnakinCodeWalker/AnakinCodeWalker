@@ -2,7 +2,8 @@
 - 👀 I’m interested in ...java
 - 🌱 I’m currently learning ...java
 - 💞️ I’m looking to collaborate on ...java
-- 📫 How to reach me ...parag31ja@gmail.com
+- 📫 How to reach me ...parag31ja@gmail.com or www.linkedin.com/in/princekumar3111
+
 - 😄 Pronouns: ..he/him.
 - ⚡ Fun fact: ...constant learner
 
