@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnakinCodeWalker
+- 👋 Hi, I’m @Prince kumar
 - 👀 I’m interested in ...java
 - 🌱 I’m currently learning ...java
 - 💞️ I’m looking to collaborate on ...java
