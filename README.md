@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prince kumar
 - 👀 I’m interested in ...java as well as python
-- 🌱 I’m currently learning ... spring boot
-- 💞️ I’m looking to collaborate on ...java development and machine learning
+- 🌱 I’m currently learning ... mern
+- 💞️ I’m looking to collaborate on ...development and machine learning
 - 📫 How to reach me ...parag31ja@gmail.com or www.linkedin.com/in/princekumar3111
 
 - 😄 Pronouns: ..he/him.
