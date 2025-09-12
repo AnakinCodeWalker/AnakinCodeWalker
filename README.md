@@ -3,7 +3,7 @@
 
 📧 Email Me 👉 **parag31ja@gmail.com** for Collaboration/Projects or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Backend  
+- 🔭 **I’m currently working on:** Mern
 - 🌱 **I’m currently learning:** Backend, APIs, AI 
 - 👯 **I’m looking to collaborate on:** AI projects  
 - 💬 **Ask me about:** Full Stack & AI, Tech Support  
